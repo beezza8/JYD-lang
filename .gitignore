@@ -6,3 +6,5 @@ jyd-lang
 jyd-macos
 jyd-win.exe
 *.log
+
+/.idea
