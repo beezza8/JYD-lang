@@ -1,7 +1,0 @@
-*.vars
-*.js
-*.exe
-*.sh
-*.log
-
-/.idea
